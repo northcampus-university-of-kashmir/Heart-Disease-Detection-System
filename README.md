@@ -1,1 +1,10 @@
-# Heart-Disease-Detection-System
+
+
+This project is about detecing heart disease using ml techniques.
+In this we will use several classification Algorithm .
+-> Algorithms that we use are decision tree...
+
+	1. Decision tree
+	2. Random Forest
+	3. Knn
+	4. Logistic regression
