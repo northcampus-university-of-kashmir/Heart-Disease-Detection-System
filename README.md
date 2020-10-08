@@ -6,8 +6,9 @@ Algorithms that we use are decision tree...
 
 	1. Decision tree
 	2. Random Forest
-	3. Knn
+	3. K nearest neighbour
 	4. Logistic regression
+	5. support vector machine
 	5. xgboost
 	6. voting classifier
 total accuracy we got is 
