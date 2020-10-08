@@ -11,7 +11,7 @@ Algorithms that we use are decision tree...
 	5. support vector machine
 	5. xgboost
 	6. voting classifier
-<h1>total accuracy we got is below in table<h1>
+<h3>total accuracy we got is below in table</h3>
 
 <table border="1" class="dataframe">
   <thead>
