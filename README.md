@@ -13,7 +13,7 @@ Algorithms that we use are decision tree...
 	6. voting classifier
 	
 
-<h3 color="green";>total accuracy we got with hyper-tuning below in table</h3>
+<h3>total accuracy we got with hyper-tuning is below in table</h3>
 
 <table border="1" class="dataframe">
   <thead>
