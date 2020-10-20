@@ -12,15 +12,8 @@ Algorithms that we use are decision tree...
 	5. xgboost
 	6. voting classifier
 	
-<head>
-	<style>
-		th {
-  background-color: #4CAF50;
-  color: white;
-}
-		</style>
-</head>
-<h3>total accuracy we got is below in table</h3>
+
+<h3 color:"green";>total accuracy we got with hper-tuning below in table</h3>
 
 <table border="1" class="dataframe">
   <thead>
