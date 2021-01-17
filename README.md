@@ -1,8 +1,8 @@
 
 
 <h3> <i> last_edited2 contains actual implementation </i></h3>
-we are using  several classification Algorithm.
-Algorithms 👇
+we are using  several classification Algorithm. 👇👇
+ 
 
 	1. Decision tree
 	2. Random Forest
