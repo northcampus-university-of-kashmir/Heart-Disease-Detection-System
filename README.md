@@ -1,8 +1,8 @@
 
 
-This project is about detecing heart disease using ml techniques.
-In this we will use several classification Algorithm.
-Algorithms that we use are below
+<h3> <i> last_edited2 contains actual implementation </i></h3>
+we are using  several classification Algorithm.
+Algorithms 👇
 
 	1. Decision tree
 	2. Random Forest
